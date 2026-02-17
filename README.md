@@ -46,13 +46,15 @@ It allows easy recipe posting, searching, and viewing — built using the **MERN
    ```
  
  5. Open your browser and visit http://localhost:3000
+
 ---
 👩‍💻 Author
 Sneha 
 Final-year Information Science Engineering Student
-🌐 GitHub[https://github.com/snehaaaaaaaa262]
- | 💼 LinkedIn[https://www.linkedin.com/in/sneha-ganiga-557181312/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BABs1QhqCR8m7k3b5dJ3t0w%3D%3D]
- | ✉️ snehaganiga1527@gmail.com
+🌐 [LinkedIn](https://www.linkedin.com/in/sneha-ganiga-557181312/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BABs1QhqCR8m7k3b5dJ3t0w%3D%3D)  
+💻 [GitHub](https://github.com/snehaaaaaaaa262)  
+✉️ snehaganiga1527@gmail.com 
 ---
+
 
 
