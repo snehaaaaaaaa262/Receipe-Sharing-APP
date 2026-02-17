@@ -40,12 +40,12 @@ It allows easy recipe posting, searching, and viewing — built using the **MERN
     npm install
     ```
 
-4.Run the app
+ 4. Run the app
    ```bash
-  npm start
+   npm start
    ```
  
-5. Open your browser and visit http://localhost:3000
+ 5. Open your browser and visit http://localhost:3000
 ---
 👩‍💻 Author
 Sneha 
@@ -54,3 +54,4 @@ Final-year Information Science Engineering Student
  | 💼 LinkedIn
  | ✉️ snehaganiga1527@gmail.com
 ---
+
